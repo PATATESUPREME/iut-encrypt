@@ -1,0 +1,16 @@
+{
+  "name": "@patatesupreme/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Encrypt for the IUT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PATATESUPREME/iut-encrypt.git"
+  },
+  "author": "PATATESUPREME <patatesup@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PATATESUPREME/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/PATATESUPREME/iut-encrypt#readme"
+}
